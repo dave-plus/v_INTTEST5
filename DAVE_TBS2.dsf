@@ -9,7 +9,7 @@
 <buildId>8</buildId>
 <fixLevel>8</fixLevel>
 <releaseDate>2016-01-26</releaseDate></dopeVersion></commonInfo>
-<data dataSorted="no" dbEdition="223" dbtype="DRP" dopeUser="MLE" locale="de_DE" osUser="Marco" timestamp="2019-07-18 10:05:30 MESZ" version="1.12">
+<data dataSorted="no" dbEdition="223" dbtype="DRP" dopeUser="SOLE" locale="de_DE" osUser="Marco" timestamp="2019-07-21 10:28:52 MESZ" version="1.12">
 
 <paragraph alias="" allowMultipleUsage="no" editable="permit" editMode="editor" id="DAVE_TBS2" showTitle="no" visibility="VISIBLE">
 <meta author="DAVE" changeDescription="" creationDate="10-11-2018 19:30:20" description="DAVE" helpsetID="" logicalVersion="-1" migrationStage="" modificationDate="10-11-2018 20:34:07" modificationUser="DAVE" owner="DE_AD_ZZ" productionState="10" protectionCode="0" referenceDate="10-11-2018" releaseDate="01-01-1800 00:00:00" releaseName="DAVE" scope="public" subtype="TXT" uuid="c4359971a1254a238f3878fb1a98f417" validFrom="10-11-2018" validTo="31-12-2099" version="-1"/> 
