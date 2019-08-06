@@ -9,7 +9,7 @@
 <buildId>8</buildId>
 <fixLevel>8</fixLevel>
 <releaseDate>2016-01-26</releaseDate></dopeVersion></commonInfo>
-<data dataSorted="no" dbEdition="223" dbtype="DRP" dopeUser="MLE" locale="de_DE" osUser="Marco" timestamp="2019-08-04 19:06:47 MESZ" version="1.12">
+<data dataSorted="no" dbEdition="223" dbtype="DRP" dopeUser="SOLE" locale="de_DE" osUser="Marco" timestamp="2019-08-06 10:30:50 MESZ" version="1.12">
 
 <stencil allowElementsFrom="allprojects" allowIndividualText="no" allowOnlinePrint="yes" allowStencilasChildren="yes" asfCallModeForDCP="start" asfCallModeForPDP="switch" asfCallModeForPVP="switch" DCPName="" id="DAVE_TDV2" isKeepTextsCurrent="no" numberOfCopiesInBatch="0" PDPName="" printFormat="" PVPName="" removeDoubleParameters="no" suppressParagraphSelection="no" visibility="VISIBLE">
 <meta author="DAVE" changeDescription="" creationDate="10-11-2018 19:30:52" description="DAVE" helpsetID="" logicalVersion="-1" migrationStage="" modificationDate="10-11-2018 19:37:41" modificationUser="DAVE" owner="DE_AD_ZZ" productionState="10" protectionCode="0" referenceDate="10-11-2018" releaseDate="01-01-1800 00:00:00" releaseName="DAVE" scope="public" uuid="ec08202e963e4f56bf5034afb89aefba" validFrom="10-11-2018" validTo="31-12-2099" version="-1"/> 
